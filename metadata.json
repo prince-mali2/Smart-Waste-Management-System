@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Remix: EcoSmart Waste Management",
+  "description": "A modern smart city waste management platform for citizens and municipal authorities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
